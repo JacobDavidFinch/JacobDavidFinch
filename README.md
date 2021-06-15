@@ -4,13 +4,11 @@
 
 - 🌱 I’m currently learning **Microservices, GraphQL, and GoLang**
 
-- 👨‍💻 All of my projects are available at [JacobDavidFinch.com](JacobDavidFinch.com)
-
 - 💬 Ask me about **My Project Ideas**
 
 - 📫 How to reach me **JacobDavidFinch@gmail.com**
 
-- 📄 Know about my experiences [JacobDavidFinch.com/resume](JacobDavidFinch.com/resume)
+- 📄 Know about my experiences [http://JacobDavidFinch.com/resume](JacobDavidFinch.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
