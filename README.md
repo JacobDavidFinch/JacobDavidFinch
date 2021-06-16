@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Jacob Finch</h1>
 <h3 align="center">A full-stack developer by day, curious tech savant by night</h3>
 
-- 🌱 I’m currently learning **Microservices, GraphQL, and GoLang**
+- 🌱 I’m currently learning **Microservices, GraphQL, and Wherever the road takes me**
 
 - 💬 Ask me about **My Project Ideas**
 
 - 📫 How to reach me **JacobDavidFinch@gmail.com**
-
-- 📄 Know about my experiences [JacobDavidFinch.com/resume](http://JacobDavidFinch.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
