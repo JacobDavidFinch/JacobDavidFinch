@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Finch</h1>
 <h3 align="center">A full-stack developer by day, curious tech savant by night</h3>
 
-- 🌱 I’m currently learning **Microservices, GraphQL, and Wherever the road takes me**
+- 🌱 I’m currently learning **Rust, GraphQL, and Wherever the road takes me**
 
 - 💬 Ask me about **My Project Ideas**
 
